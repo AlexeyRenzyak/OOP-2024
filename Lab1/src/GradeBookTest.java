@@ -3,7 +3,7 @@ import Practice.Student;
 import java.util.Vector;
 
 public class GradeBookTest {
-    public static void main(String[] args) {
+    public static void main() {
         Course c1 = new Course("Sample Discipline", "SC322", "Course Test", 9001);
         Student student1 = new Student("MASTER", 1);
         Student student2 = new Student("Boss", 2);
